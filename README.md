@@ -1,8 +1,8 @@
 # On viewing the Recipe Gallery
-Within your IDE, if starting from absolute scratch, navigate to where you want to install the recipe gallery project and you must run "npx create-react-app recipe-gallery" to initialize a React application project. Then, you must enter "cd recipe-gallery" to change directories into the project file. 
+Within your IDE, if starting from absolute scratch, navigate to where you want to install the Recipe Gallery project and you must run "npx create-react-app recipe-gallery" to initialize a React application project. Then, you must enter "cd recipe-gallery" to change directories into the project file. 
 Once there, run "npm start" to begin the application server. I would also run "npm install styled-components" additionally due to my inclusion of styled components for visual purposes.
 
-Adding the RecipeGallery.js, RecipeGallery.css, and the App.js from the repo to the "src" branch of the project should allow this project to run locally.
+Adding the RecipeGallery.js, RecipeGallery.css, and the App.js from the repo to the "src" branch of the project should allow this project to run locally. Images files can be placed within the "public" folder for local access.
 
 # On layout and styling choices
 I have very light styling choices in the RecipeGallery.css file, mostly to keep the recipes in a horizontal alignment versus having the need to scroll to see them all.
